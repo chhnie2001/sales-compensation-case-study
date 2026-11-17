@@ -1,0 +1,10 @@
+{
+  "dataset": "SYNTHETIC ONLY",
+  "month": "2026-06",
+  "representatives": 5,
+  "accounts": 4,
+  "current_usd": 1164.8,
+  "repriced_usd": 1046.3,
+  "delta_usd": -118.5,
+  "not_actual_case_results": true
+}

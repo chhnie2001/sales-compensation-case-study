@@ -1,0 +1,5 @@
+crm_account_id,app_account_id,billing_account_id,opportunity_rows,winning_opportunity,closed_won_count,go_live,first_worked,ae_owner,am_owner,account_type,role,margin,charge,terms_factor,gtm_conversion,W1,W2,W3,F1_month,F2_improvement_half,F3_improvement_half,ae_credited,worked_june_nr,approved_month_credits,am_existing,retention_june,retention_may,posted_june,worked_june
+SYN-A,APP-SYN-A,BILL-SYN-A,2,DEAL-A,1,2026-06-01,2026-06-01,O1,O3,Standard,SMB Account Executive,100,200,1.2,1,3000.0,0.0,0.0,3000.0,0.0,0.0,3600.0,3000.0,0.0,0,0,0,30,30
+SYN-B,APP-SYN-B,BILL-SYN-B,"3,4",DEAL-B,2,2026-04-15,2026-04-15,O1,O3,Standard,SMB Account Executive,80,180,1,1,800.0,1040.0,560.0,0.0,120.0,0.0,120.0,1600.0,50.0,1550.0,1550.0,800.0,20,20
+SYN-C,APP-SYN-C,BILL-SYN-C,5,DEAL-C,1,2026-05-01,2026-06-05,O2,O4,GTM,ENT Account Executive,70,200,1,0.25,3000.0,0.0,0.0,3000.0,0.0,0.0,750.0,490.0,0.0,490.0,0,0,15,7
+SYN-D,APP-SYN-D,BILL-SYN-D,6,DEAL-D,1,2026-04-01,2026-04-01,O1,O3,Standard,SMB Account Executive,100,200,1,1,500.0,1000.0,1500.0,0.0,250.0,250.0,250.0,1500.0,0.0,1500.0,1500.0,1000.0,15,15
